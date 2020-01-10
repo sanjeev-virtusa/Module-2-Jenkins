@@ -1,2 +1,2 @@
 hello
-frist line added
+first line added
